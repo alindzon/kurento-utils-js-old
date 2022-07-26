@@ -62,7 +62,7 @@
     "freeice": "^2.1.2",
     "hark": "^1.0.0",
     "inherits": "^2.0.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "sdp-translator": "^0.1.15",
     "ua-parser-js": "^0.7.7",
     "uuid": "^3.0.0"
