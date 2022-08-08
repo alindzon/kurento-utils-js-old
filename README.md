@@ -24,7 +24,7 @@ Kurento Utils for Node.js and Browsers
 
 *kurento-utils-js* is a browser library that can be used to simplify creation and handling of [RTCPeerConnection](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection) objects, to control the browser’s [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API).
 
-This fork is for experimentation by [Efficient Apps](https://www.efficientapps.com).  Changes in WebRtcPeer.js are documented and being used to fix some issues with ionic capacitor.
+This fork is for experimentation by [Efficient Apps](https://www.efficientapps.ca).  Changes in WebRtcPeer.js are documented and being used to fix some issues with ionic capacitor.
 
 Installation instructions
 -------------------------
