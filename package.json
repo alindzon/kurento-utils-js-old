@@ -1,6 +1,6 @@
 {
   "name": "kurento-utils",
-  "version": "6.18.1",
+  "version": "6.18.2",
   "description": "Kurento JavaScript Utilities",
   "keywords": [
     "kurento",
@@ -59,7 +59,7 @@
     "test": "scripts/test"
   },
   "dependencies": {
-    "freeice": "^2.1.2",
+    "freeice": "^2.2.2",
     "hark": "^1.0.0",
     "inherits": "^2.0.0",
     "merge": "^2.1.1",
